@@ -1,4 +1,4 @@
-## Modupeola_Fagbenro_Nlp_Individual_Project - For News Article Generation Using LSTM model 
+## For News Article Generation Using LSTM model 
 
 
 
