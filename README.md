@@ -1,4 +1,4 @@
-## For News Article Generation Using LSTM model 
+## For News Article Generation Using LSTM model and LLM(Llma + AWS bedrock) 
 
 
 
@@ -28,10 +28,10 @@ Filename: New_articles_combined.csv
      - NYTimes Article Dataset
 
 
-### Model Architecture 
+### Model Architecture Using LSTM + Attention Mechanism 
 
   #### Tech Stats 💻 :
-  <img src="https://img.shields.io/badge/python-orange" alt="python" /> <img src="https://img.shields.io/badge/pytorch-blue" alt="pytorch" /> <img src="https://img.shields.io/badge/pandas-lightgreen" alt="pandas"/> <img src="https://img.shields.io/badge/numpy-blue" alt="numpy" /> <img src="https://img.shields.io/badge/torch-orange" alt="torch" />
+  <img src="https://img.shields.io/badge/python-orange" alt="python" /> <img src="https://img.shields.io/badge/pytorch-blue" alt="pytorch" /> <img src="https://img.shields.io/badge/pandas-lightgreen" alt="pandas"/> <img src="https://img.shields.io/badge/numpy-blue" alt="numpy" /> <img src="https://img.shields.io/badge/torch-orange" alt="torch" /> <img src="https://img.shields.io/badge/aws-bedrock-orange" alt= "aws-bedrock" />
 
 - About the Dataset: 
     - Dataset preview
@@ -61,6 +61,8 @@ Filename: New_articles_combined.csv
         - Style consistency
         - Factual accuracy
      
+          
+   -Model Archecture Using LLama + Aws -bedrock 
 - References: 
 
   
