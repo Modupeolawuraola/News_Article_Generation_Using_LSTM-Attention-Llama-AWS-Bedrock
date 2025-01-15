@@ -52,6 +52,10 @@
 
       -  Run the app; streamlit run Llama_streamlit_news_generation_app.py
 
+  ### ML-Project Deployed -AI-News-Article-Generator    
+
+ <img src="./AI_news.png" width="600" height="400">  
+
 
 
 
